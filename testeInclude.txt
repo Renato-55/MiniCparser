@@ -1,0 +1,29 @@
+#include stdio.h 
+
+int main(){
+	int a;
+	int b;
+	char r;
+	char v;
+
+	a = 45;
+	r = 'r';
+	v = 'v';
+	b = 2;
+	b = b*a;
+	/*
+	printf("Variavel int a");
+	printf(a);
+	printf("Variavel int b");
+	printf(b);
+	printf("Some Text");
+	printf("Expressão 6+6");
+	printf(_ 6+6 _);
+	printf("Expressão 6*6");
+	printf(_ 6*6 _);
+	printf("Expressão 24-6");
+	printf(_ 24-6 _);
+	printf("Expressão 99/3");
+	printf(_ 99/3 _);
+	*/
+}

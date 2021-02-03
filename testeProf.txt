@@ -1,0 +1,24 @@
+
+
+int main(){
+	int num;
+	float real;
+	int i;
+	printf("Vou fazer um ciclo");
+	
+	for(i = 1; i < 10 ; i++) {
+		printf(i);
+	}
+
+	int var;
+	var=1;
+	/*
+	Multi 
+	Line 
+	Comment
+	*/
+	float x;
+	x=14.5;
+} 
+
+

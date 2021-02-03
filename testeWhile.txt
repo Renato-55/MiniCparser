@@ -1,0 +1,12 @@
+int main(){
+	int num;
+	float real;
+
+	printf("Vou fazer um ciclo");
+	num = 5;
+	while(num != 6){
+		printf(num);
+		num=num+1;
+	}
+	printf("Acabou");
+} 

@@ -1,0 +1,12 @@
+int main(){
+	int num;
+	float real;
+	int i;
+	printf("Vou fazer um ciclo");
+
+	for(i = 7; i < 15 ; i++) {
+		printf(i);
+	}
+	printf("Acabou!!");
+	
+} 
